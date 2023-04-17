@@ -1,0 +1,7 @@
+Version 4.5 Changelog:
+
+> [NA2TikTo Asia]
+>[Added] Hide Chat Feature
+>[Fix] Phone Overheating
+>[Fix] Battery consumption problem
+>[Fixed] all the problems of the old version
