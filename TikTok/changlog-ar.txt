@@ -1,7 +1,8 @@
-Version 4.5 Changelog:
+الإصدار 4.5 سجل التغيير:
 
-> [NATikTo]
->[Added] Hide Chat Feature
->[Fix] Phone Overheating
->[Fix] Battery consumption problem
->[Fixed] all the problems of the old version
+> [NATikTok]
+> [اضافة] ميزة إخفاء الدردشة
+> [اصلاح] سخونة الهاتف
+> [اصلاح] مشكلة استهلاك البطارية
+> [اصلاح] جميع مشاكل الاصدار القديم
+> [مزيد] اصلاحات وتحسينات اكتشفها بنفسك
