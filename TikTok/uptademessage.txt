@@ -1,8 +1,8 @@
 {
   "Gold": {
-    "update_code": "0",
+    "update_code": "1",
     "reminder_time": "3",
-    "update_version": "v3.40",
+    "update_version": "v3.60",
     "com.zhiliaoapp.musically": "https://tiktok-apk.com/update",
 	"com.ss.android.ugc.trill": "https://tiktok-apk.com/update",
     "update_message": "
