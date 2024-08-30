@@ -2,11 +2,11 @@
   "Gold": {
     "update_code": "1",
     "reminder_time": "3",
-    "update_version": "v3.60",
+    "update_version": "v4.5",
     "com.zhiliaoapp.musically": "https://www.naljaede.com/2021/12/tiktok-natiktok-plus.html",
 	"com.ss.android.ugc.trill": "https://www.naljaede.com/2021/12/tiktok-natiktok-plus.html",
     "update_message": "
-<p>New Update« 3.80</p>
+<p>New Update« 4.10</p>
 <li>Base Update: 10.13.1.2</li>
 <li>Screen capture enabled for stories if it is stopped</li>
 <li>Story saving enabled if it is stopped</li>
