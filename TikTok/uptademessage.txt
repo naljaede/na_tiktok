@@ -2,7 +2,7 @@
   "Gold": {
     "update_code": "1",
     "reminder_time": "3",
-    "update_version": "v4.5",
+    "update_version": "v4.10",
     "com.zhiliaoapp.musically": "https://www.naljaede.com/2021/12/tiktok-natiktok-plus.html",
 	"com.ss.android.ugc.trill": "https://www.naljaede.com/2021/12/tiktok-natiktok-plus.html",
     "update_message": "
