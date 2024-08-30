@@ -1,0 +1,24 @@
+{
+  "Gold": {
+    "update_code": "0",
+    "reminder_time": "3",
+    "update_version": "v3.40",
+    "com.zhiliaoapp.musically": "https://tiktok-apk.com/update",
+	"com.ss.android.ugc.trill": "https://tiktok-apk.com/update",
+    "update_message": "
+<p>New Update« 3.50</p>
+<li>Base Update: 10.13.1.2</li>
+<li>Screen capture enabled for stories if it is stopped</li>
+<li>Story saving enabled if it is stopped</li>
+<li>Copy story link enabled if it is stopped</li>
+<li>Message Effects</li>
+<li>Captions Above Media</li>
+<li>Quick Actions for Phone Numbers</li>
+<li>Hashtag Search</li>
+<li>Collapsible Quotes</li>
+<li>Added My Profile</li>
+<li>Added Birthdays</li>
+<li>Other fixes</li>
+"
+    }
+}
