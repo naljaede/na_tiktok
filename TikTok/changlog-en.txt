@@ -1,7 +1,11 @@
-Version 4.5 Changelog:
+Version 4.10 Changelog:
 
-> [NATikTo]
->[Added] Hide Chat Feature
->[Fix] Phone Overheating
->[Fix] Battery consumption problem
->[Fixed] all the problems of the old version
+> [NATikTok]
+> Based on the latest Google Play
+> Quickly find and tag your friends in comments.
+> We've made it even easier to shoot videos!
+> Added the latest stickers to your videos.
+> Squashed bugs for better experience.
+> Fixed problem of logging in via username.
+> Fixed problem of the profile picture not changing.
+> Application performance
